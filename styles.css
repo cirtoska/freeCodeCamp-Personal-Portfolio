@@ -80,7 +80,7 @@ header {
     font-weight: 300;
 }
 #projects {
-    height: 100vh;
+    padding-bottom: 2rem;
     padding-top: 10vh;
 }
 .project-tile {
