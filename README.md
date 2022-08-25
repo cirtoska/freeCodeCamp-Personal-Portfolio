@@ -1,2 +1,2 @@
 # freeCodeCamp Personal Portfolio Certification Project for Responsive Web Design
-Live Preview https://cirtoska.github.io/freeCodeCamp-Personal-Portfolio/
+Live Preview https://free-code-camp-personal-portfolio.vercel.app/
